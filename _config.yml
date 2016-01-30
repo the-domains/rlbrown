@@ -1,0 +1,28 @@
+name: rlbrown
+favicon: null
+layout_spectrum: 0.5192771363072097
+typography_spectrum: 0.7637088063638657
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.27860287413932383
+  lightness: 0.9788465173915029
+  saturation: 0.3489914759993553
+  rhythmicContrast: 0.25325699732638896
+purpose: []
